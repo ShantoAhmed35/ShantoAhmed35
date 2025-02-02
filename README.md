@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Al-Amin Ahmed Shanto</h1>
 <h3 align="center">A passionate CSE Engineer from Bangladesh</h3>
+<img align="right" alt="codeing" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto137&label=Profile%20views&color=0e75b6&style=flat" alt="shanto137" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto137" alt="shanto137" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
